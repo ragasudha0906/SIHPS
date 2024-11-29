@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29-11-2024
+## Register Number:24900684
+## Name:RAGASUDHA
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,23 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+The Alumni Association platform is a web and mobile application that connects alumni with their alma mater, enabling networking, professional development, donation capabilities, event participation, and showcasing alumni success stories. It aims to build a cohesive community that provides value to both the alumni and the institution.
 
 ## Proposed Solution / Architecture Diagram
-
-
+![architecture diagram 1](https://github.com/user-attachments/assets/9f305c91-86c0-40cb-864e-381539be9ab1)
 ## Use Cases
-
-
+![use cases](https://github.com/user-attachments/assets/cf2d56b1-f3c4-461e-a5b7-74f52b0797ff)
 ## Technology Stack
-
-
+```
+Web
+Mobile
+Authentication
+State Management
+Microservices Framework 
+```
 ## Dependencies
-
+```
+SSL/TLS for secure data transmission
+OAuth 2.0 / JWT for user authentication and authorization
+Rate limiting to prevent abuse of the platform
+```
